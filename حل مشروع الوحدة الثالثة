@@ -1,0 +1,11 @@
+
+
+print("welcom to my island")
+print(" there are two doors in front of you.🎀a red door and💦 blue door ")
+
+choise=input("wich door do you want to open ?").lower()
+if choise==''red":
+	print("a")
+	prrint("b")
+	boxe=input("black,whait,green").lower
+	if boxe =
